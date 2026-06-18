@@ -1,5 +1,7 @@
 # 🛒 AI-Powered E-Commerce Shopping Agent
 
+[![Test Live Bot](https://img.shields.io/badge/Demo-Live_Chat_Agent-brightgreen?style=for-the-badge)](https://creator.voiceflow.com/share/6a2426ab5712006dd6ef3137/environment/main/draft)
+
 A production-ready, conversational AI assistant designed for an e-commerce storefront. Built on the Voiceflow framework, this agent handles dynamic user inquiries, manages inventory tracking, processes orders seamlessly, and delivers a visually rich customer experience.
 
 ## ✨ Key Features
